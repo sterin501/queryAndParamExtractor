@@ -5,7 +5,9 @@ Tab is used for spliting the query.It might not work the file which created by c
 
 Usage 
 
-pip -r requirements.tx 
+To install required python libary files 
+pip -r requirements.txt
+
 
 To extract quries 
 ./queryExtractor.py -f <query.log> 
