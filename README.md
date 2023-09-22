@@ -1,7 +1,7 @@
 # queryAndParamExtractor
 
-This used to extract the queries and parameters from query.log . After extracting the query , it can run to the neo4j server .
-Tab is used for spliting the query.It might not work the file which created by copy pasting
+This is used to extract the queries and parameters from the query.log. After extracting the query, it can be run on the Neo4j server. .
+Tab ("\t")  is used to split the query. However, it might not work with the file that was created  by copy-pasting
 
 Usage 
 
